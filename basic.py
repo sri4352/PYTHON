@@ -1,0 +1,11 @@
+print("hello worild")
+print(5)
+print(5.6)
+print(False)
+print("india","china","srilanka")
+print("india",5,True)
+print("india","china","srilanka",sep="-")
+print("india","china","srilanka",end=" ** ")
+print("india",5,True)
+
+print("hey this is sri",file=open('sri.txt','w'))
